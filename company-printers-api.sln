@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "company-printers-api", "company-printers-api\company-printers-api.csproj", "{B01F901F-7639-4091-B1C1-0CE85E115EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B01F901F-7639-4091-B1C1-0CE85E115EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B01F901F-7639-4091-B1C1-0CE85E115EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B01F901F-7639-4091-B1C1-0CE85E115EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B01F901F-7639-4091-B1C1-0CE85E115EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3AC22F1-2D48-4AD8-9671-D1A4576C3335}
+	EndGlobalSection
+EndGlobal
