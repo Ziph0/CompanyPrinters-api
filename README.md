@@ -3,8 +3,8 @@
 The central backend for the CompanyPrinters system. This RESTful API provides the data layer and business logic for modern Angular frontend application.
 
 ## Tech Stack
-* **Framework:** ASP.NET Core 8.0 / .NET 6.0
-* **Database:** MySQL / SQL Server
+* **Framework:** ASP.NET Core 8.0 
+* **Database:**  SQL Server
 * **ORM:** Entity Framework Core
 * **Language:** C#
 * **Architecture:** Repository Pattern with RESTful Controllers
